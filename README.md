@@ -35,3 +35,12 @@ The application gives yout the following options:
 - express - Node.js web application framework
 - mysql2 - Visual database design tool
 - sequelize - Promise-based Node.js ORM
+
+## Application Photos
+
+![alt text](https://raw.githubusercontent.com/Richardflores009/e-comerce/main/img/Screen%20Shot%202020-10-24%20at%2015.17.46.png "Top of webpage")
+
+![alt text](https://raw.githubusercontent.com/Richardflores009/e-comerce/main/img/Screen%20Shot%202020-10-24%20at%2015.17.58.png "Top of webpage")
+
+![alt text](https://raw.githubusercontent.com/Richardflores009/e-comerce/main/img/Screen%20Shot%202020-10-24%20at%2015.18.15.png "Top of webpage")
+
