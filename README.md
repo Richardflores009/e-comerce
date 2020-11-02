@@ -1,7 +1,5 @@
 # e-comerce
 
-## Employee-Tracker
-
 This E-Commerce Backend application you can use CRUD on Product, Category, Tag.
 
 The application gives yout the following options:
